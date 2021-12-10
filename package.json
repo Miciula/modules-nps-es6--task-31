@@ -4,7 +4,7 @@
   "description": "Package with two counters `Counter` and `DecreasingCounter` constructors.",
   "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\"",
+    "test": "echo \"Error: no test specified\" && exit 0",
     "build": "webpack --config webpack.config.js",
     "start": "webpack-dev-server --config webpack.config.demo.js",
     "prepublishOnly": "npm run build",
