@@ -1,6 +1,6 @@
 {
   "name": "@miciula/counters",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Package with two counters `Counter` and `DecreasingCounter` constructors.",
   "main": "dist/index.js",
   "scripts": {
